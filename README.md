@@ -10,7 +10,8 @@ With the rise of Generative AI tools, distinguishing AI-generated art from authe
 
 - Human-Created / Real
 - AI-Generated
-Dataset: https://www.kaggle.com/code/y5cy5c/cifake-real-and-ai-generated-synthetic-images
+
+-Dataset: https://www.kaggle.com/code/y5cy5c/cifake-real-and-ai-generated-synthetic-images
 ---
 
 ## Features
