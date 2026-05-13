@@ -84,7 +84,7 @@ cifake_data/
 
 ## Files Included
 
-### ML_DA.ipynb
+### ai-art.ipynb
 Contains:
 - Data preprocessing
 - Dataset loading
