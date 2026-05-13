@@ -10,8 +10,6 @@ With the rise of Generative AI tools, distinguishing AI-generated art from authe
 
 - Human-Created / Real
 - AI-Generated
-
-The application combines machine learning with an interactive web interface to provide fast and accurate image classification.
 Dataset: https://www.kaggle.com/code/y5cy5c/cifake-real-and-ai-generated-synthetic-images
 ---
 
